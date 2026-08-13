@@ -1,0 +1,11 @@
+opencv-python>=4.9
+uniface>=0.1.0
+torch>=2.1
+torchaudio>=2.1
+numpy>=1.24
+scipy>=1.11
+librosa>=0.10
+soundfile>=0.12
+faster-whisper>=1.0
+pyannote.audio>=3.1      # tùy chọn: dùng cho diarization cross-check
+tqdm>=4.66
